@@ -21,8 +21,6 @@ public class Assignment_2 {
         catch (Exception ignored){
             System.out.println("Error Occurred");
         }
-
-
     }
     boolean isPrime(int n){
         boolean counter=false;
