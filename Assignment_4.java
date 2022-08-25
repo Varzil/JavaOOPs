@@ -1,7 +1,8 @@
+// Write  a  program  that  calculate  percentage  marks  of  the  student  if  marks  of  6  subjects  are given.
+
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-// Write  a  program  that  calculate  percentage  marks  of  the  student  if  marks  of  6  subjects  are given.
 public class Assignment_4 {
     public static void main(String[] args) {
         int a,b,c,d,e,f;
