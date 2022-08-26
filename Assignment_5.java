@@ -9,13 +9,6 @@ public class Assignment_5{
         c = Integer.parseInt(JOptionPane.showInputDialog("Enter Third number:"));
 
         max=(a>b)?Math.max(a,c):Math.max(b,c);
-//        if(a > b) {
-//            max = Math.max(a, c);
-//        }
-//        else {
-//            max = Math.max(b, c);
-//        }
-
         JOptionPane.showMessageDialog(null, "Maximum number is: " + max);
     }
 }
