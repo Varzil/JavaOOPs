@@ -49,21 +49,20 @@ public class Assignment_13 {
         switch (ch) {
             case 1:
                 double ans = Math.sin(angle);
-                System.out.println("Answer: "+ans);
+                System.out.println("Answer: " + ans);
                 break;
             case 2:
                 double ans2 = Math.cos(angle);
-                System.out.println("Answer: "+ans2);
+                System.out.println("Answer: " + ans2);
                 break;
             case 3:
                 double ans3 = Math.tan(angle);
-                System.out.println("Answer: "+ans3);
+                System.out.println("Answer: " + ans3);
                 break;
             default:
                 System.out.println("The entered choice ");
         }
     }
-    public static class Assignment13 {
         public static void main(String[] args) {
             System.out.println("---------------------------------- -");
             System.out.println("Enter your choice of operation:");
@@ -112,4 +111,4 @@ public class Assignment_13 {
             }
         }
     }
-}
+
