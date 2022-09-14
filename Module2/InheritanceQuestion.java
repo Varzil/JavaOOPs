@@ -1,3 +1,5 @@
+package Module2;
+
 public class InheritanceQuestion {
     public static void main(String[] args) {
 
