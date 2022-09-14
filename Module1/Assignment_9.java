@@ -1,4 +1,4 @@
-// Write  an  interactive  program to  print  a string  entered  in  a  pyramid  form.
+package Module1;// Write  an  interactive  program to  print  a string  entered  in  a  pyramid  form.
 // For  instance,  the string “stream” has to be displayed as follows:
 /*
         S

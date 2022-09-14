@@ -1,4 +1,4 @@
-// Write  a program to accept a line  and check  how many consonants  and vowels are there  in line.
+package Module1;// Write  a program to accept a line  and check  how many consonants  and vowels are there  in line.
 import java.io.InputStreamReader;
 import java.util.Scanner;
 

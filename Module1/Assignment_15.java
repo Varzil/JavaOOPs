@@ -1,4 +1,4 @@
-// Write a program in Java to multiply two matrixes.
+package Module1;// Write a program in Java to multiply two matrixes.
 import java.util.Scanner;
 
 public class Assignment_15 {

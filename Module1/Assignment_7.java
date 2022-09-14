@@ -1,4 +1,4 @@
-// Write a program to count the number of words that start with capital letters.
+package Module1;// Write a program to count the number of words that start with capital letters.
 import java.io.InputStreamReader;
 import java.util.Scanner;
 

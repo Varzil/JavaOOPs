@@ -1,3 +1,5 @@
+package Module1;
+
 import java.io.InputStreamReader;
 import java.util.Scanner;
 

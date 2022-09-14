@@ -1,4 +1,4 @@
-// Write a program in Java to create a simple scientific calculator using Math Class
+package Module1;// Write a program in Java to create a simple scientific calculator using Math Class
 import java.util.Scanner;
 public class Assignment_13 {
     static void Addition(int num1, int num2) {

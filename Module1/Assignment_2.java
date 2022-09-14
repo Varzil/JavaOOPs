@@ -1,4 +1,4 @@
-// Write a program in Java to generate first n prime numbers.
+package Module1;// Write a program in Java to generate first n prime numbers.
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 public class Assignment_2 {

@@ -1,4 +1,4 @@
-// Write  a  program  that  calculate  percentage  marks  of  the  student  if  marks  of  6  subjects  are given.
+package Module1;// Write  a  program  that  calculate  percentage  marks  of  the  student  if  marks  of  6  subjects  are given.
 
 import java.io.InputStreamReader;
 import java.util.Scanner;

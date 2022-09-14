@@ -1,4 +1,4 @@
-// Write a program in Java to find maximum of three numbers using conditional operator.
+package Module1;// Write a program in Java to find maximum of three numbers using conditional operator.
 import javax.swing.*;
 
 public class Assignment_5{
