@@ -1,4 +1,4 @@
-// Write  a  program  in  Java  to  demonstrate  single  inheritance,  multilevel  inheritance  and hierarchical inheritance.
+package Module2;// Write  a  program  in  Java  to  demonstrate  single  inheritance,  multilevel  inheritance  and hierarchical inheritance.
 
 public class M_2_Assignment9_Single {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-// Write  a  program  to create a “distance” class with methods where distance is computed in terms of feet and inches,
+package Module2;// Write  a  program  to create a “distance” class with methods where distance is computed in terms of feet and inches,
 // how to create objects of a class.
 
 import java.util.Scanner;
