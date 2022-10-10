@@ -10,7 +10,7 @@ public class MakingAFile {
         try {
             file.createNewFile();
         } catch (IOException e) {
-            System.out.println("Error");
+            System.out.println("Error in making the file");
         }
     }
 }
