@@ -8,7 +8,7 @@ import java.io.IOException;
 public class Assignment2 {
     public static void main(String[] args) {
         try {
-            FileWriter fw = new FileWriter("/Users/varzilthakkar/Desktop/OOPs_Java/demo.txt");
+            FileWriter fw = new FileWriter("../demo.txt");
             fw.write("Files in Java might be tricky, but it is fun enough!");
             fw.close();
             System.out.println("Successfully wrote to the file.");
