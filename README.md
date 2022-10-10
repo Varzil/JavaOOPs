@@ -10,6 +10,7 @@
 
 - Module 2 has questions based on inheritance, polymorphism
 
+- Module 3 has questions based on file handling
 
 
 
