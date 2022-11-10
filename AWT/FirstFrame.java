@@ -1,5 +1,8 @@
 package AWT;
-import java.awt.*; // import all classes from java.awt package
+import java.awt.*;
+// import all classes from java.awt package
+
+// The class FirstFrame has a Frame, if it extends Frame then it is a Frame
 class FirstFrame {
     public static void main(String[] args) {
         Frame f =new Frame("Mera frame"); // create a frame
