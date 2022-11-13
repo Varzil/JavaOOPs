@@ -20,9 +20,7 @@ class MouseListenerExample extends Frame implements MouseListener{
     public void mouseEntered(MouseEvent e) {
         l.setText("Mouse Entered");
     }
-    public void mouseExited(MouseEvent e) {
-        l.setText("Mouse Exited");
-    }
+    public void mouseExited(MouseEvent e) {l.setText("Mouse Exited"); }
     public void mousePressed(MouseEvent e) {
         l.setText("Mouse Pressed");
     }
