@@ -18,12 +18,12 @@ class WindowExample extends Frame implements WindowListener {
         setVisible (true);
     }
 
-    // overriding windowActivated() method of WindowListener interface which prints the given string when window is set to be active
+    // overriding windowActivated() method of WindowListener interface which prints the given str
     public void windowActivated (WindowEvent arg0) {
         System.out.println("activated");
     }
 
-    // overriding windowClosed() method of WindowListener interface which prints the given string when window is closed
+    // overriding windowClosed() method of interface prints the given string when window is closed
     public void windowClosed (WindowEvent arg0) {
         System.out.println("closed");
     }
@@ -35,16 +35,18 @@ class WindowExample extends Frame implements WindowListener {
     }
 
     // overriding windowDeactivated() method of WindowListener interface which prints the given string when window is not active
+    @Override
     public void windowDeactivated (WindowEvent arg0) {
         System.out.println("deactivated");
     }
 
-    // overriding windowDeiconified() method of WindowListener interface which prints the given string when window is modified from minimized to normal state
+    //windowDeiconified() method of WindowListener interface which prints the given string when window is modified from minimized to normal state
+    @Override
     public void windowDeiconified (WindowEvent arg0) {
         System.out.println("deiconified");
     }
 
-    // overriding windowIconified() method of WindowListener interface which prints the given string when window is modified from normal to minimized state
+    // overriding windowIconified() method of interface  prints the given string when window is modified from normal to minimized state
     public void windowIconified(WindowEvent arg0) {
         System.out.println("iconified");
     }
