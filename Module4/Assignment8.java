@@ -22,7 +22,7 @@ public class Assignment8 {
         d.setSize(300,300);
         d.setVisible(true);
     }
-    public static void main(String args[]){
+    public static void main(String[] args){
         new Assignment8();
     }
 }
