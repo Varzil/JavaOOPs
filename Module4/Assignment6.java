@@ -9,7 +9,6 @@ class MenuTest implements ActionListener
     JMenu m,n;
     JMenuItem m1,m2,m3,n1,n2,n3;
     JTextArea ta;
-    JFileChooser jf;
     MenuTest() {
         fr=new JFrame();
         fr.setSize(400,400);
