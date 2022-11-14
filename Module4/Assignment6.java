@@ -53,6 +53,6 @@ class MenuTest implements ActionListener
 // WAP to create a Menu using the frame.
 public class Assignment6 {
     public static void main(String[] args) {
-        MenuTest obj=new MenuTest();
+        new MenuTest();
     }
 }

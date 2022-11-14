@@ -1,9 +1,6 @@
 package Module4;
-
-
 import javax.swing.*;
 import java.awt.*;
-
 //WAP to implement the FlowLayout and BorderLayout.
 public class Assignment9 {
     public static void main(String[] args) {

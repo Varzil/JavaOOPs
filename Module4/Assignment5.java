@@ -48,6 +48,5 @@ class Main {
 
 // Write a program to demonstrate the use of push buttons.
 public class Assignment5 {
-    public static void main(String[] args) {new Main();
-    }
+    public static void main(String[] args) {new Main();}
 }
