@@ -8,7 +8,7 @@ public class DeleteAFile {
         if(file.delete()){
             System.out.println("File deleted");
         }
-        else {
+         else {
             System.out.println("Some problem occurred while file deletion");
         }
     }
